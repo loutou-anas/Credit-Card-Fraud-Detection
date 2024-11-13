@@ -1,0 +1,23 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+
+# Virtual Environments
+env/
+venv/
+
+# Django
+db.sqlite3
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data Files
+*.csv
+*.xlsx
+
+# Machine Learning Models
+*.pkl
+*.h5
